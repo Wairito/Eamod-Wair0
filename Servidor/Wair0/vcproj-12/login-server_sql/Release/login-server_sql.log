@@ -1,0 +1,39 @@
+﻿  account_sql.c
+  ipban_sql.c
+  login.c
+  loginlog_sql.c
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/login/login.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/login/login.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/login/login.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/login/ipban_sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/login/ipban_sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/login/ipban_sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/login/loginlog_sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/login/loginlog_sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/login/loginlog_sql.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/login/login.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/login/login.c")
+  

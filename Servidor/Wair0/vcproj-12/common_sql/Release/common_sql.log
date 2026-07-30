@@ -1,0 +1,10 @@
+﻿  sql.c
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/common/sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/common/sql.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/common/sql.c")
+  

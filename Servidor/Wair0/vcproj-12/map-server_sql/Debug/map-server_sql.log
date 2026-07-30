@@ -1,0 +1,51 @@
+﻿  achievement.c
+  atcommand.c
+  battle.c
+  battleground.c
+  buyingstore.c
+  channel.c
+  chat.c
+  chrif.c
+  clif.c
+  date.c
+  duel.c
+  faction.c
+  guild.c
+  guild_castle.c
+  guild_expcache.c
+  homunculus.c
+  instance.c
+  intif.c
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(1229): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(1390): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+  itemdb.c
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(3737): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(3775): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+  log.c
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(5662): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(5691): warning C4267: '=': conversion from 'size_t' to 'uint16', possible loss of data
+  mail.c
+  map.c
+c:\users\jairo.desktop-8vgqsf6\desktop\servidor   por fuera dev la  raiz\wair0\src\map\clif.c(8660): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned short', possible loss of data
+  mapreg_sql.c
+  mercenary.c
+  mob.c
+  npc.c
+  npc_chat.c
+  party.c
+  path.c
+  pc.c
+  pet.c
+  quest.c
+  region.c
+  script.c
+  searchstore.c
+  skill.c
+  status.c
+  storage.c
+  trade.c
+  unit.c
+  vending.c
+achievement.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  map-server_sql.vcxproj -> C:\Users\Jairo.DESKTOP-8VGQSF6\Desktop\servidor   por fuera dev la  raiz\Wair0\vcproj-12\..\map-server_sql.exe
+  map-server_sql.vcxproj -> ..\map-server_sql.pdb (Full PDB)

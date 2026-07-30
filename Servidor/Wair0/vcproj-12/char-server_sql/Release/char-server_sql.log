@@ -1,0 +1,216 @@
+﻿  char.c
+  int_achievement.c
+  int_auction.c
+  int_guild.c
+  int_homun.c
+  int_mail.c
+  int_mercenary.c
+  int_party.c
+  int_pet.c
+  int_quest.c
+  int_storage.c
+  inter.c
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_achievement.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_achievement.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_achievement.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/char.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/char.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/char.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_guild.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_guild.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_guild.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_homun.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_homun.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_homun.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_mail.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_mail.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_mail.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_storage.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_storage.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_storage.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_quest.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_quest.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_quest.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_pet.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/inter.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_pet.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_pet.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/inter.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/inter.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_auction.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_auction.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_auction.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_mercenary.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_mercenary.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_mercenary.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2061: error de sintaxis: identificador 'malloc_verify_ptr'
+  (compilando archivo de origen "../src/char_sql/int_party.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,6): error C2059: error de sintaxis: ';'
+  (compilando archivo de origen "../src/char_sql/int_party.c")
+  
+C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\malloc.h(87,24): error C2059: error de sintaxis: '<parameter-list>'
+  (compilando archivo de origen "../src/char_sql/int_party.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_achievement.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_achievement.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_guild.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_guild.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/char.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/char.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_homun.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_homun.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_storage.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_storage.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/inter.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/inter.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_party.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_party.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_mercenary.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_mercenary.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_mail.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_mail.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_quest.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_quest.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_auction.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_auction.c")
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1912,17): warning C4005: 'snprintf': redefinición de macro
+  (compilando archivo de origen "../src/char_sql/int_pet.c")
+      C:\Users\Jairo.DESKTOP-8VGQSF6\Documents\GitHub\eamod\Servers\eAthena\src\common\cbasetypes.h(211,9):
+      vea la definición anterior de “snprintf”
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt\stdio.h(1914,1): error C1189: #error:  Macro definition of snprintf conflicts with Standard Library function declaration
+  (compilando archivo de origen "../src/char_sql/int_pet.c")
+  

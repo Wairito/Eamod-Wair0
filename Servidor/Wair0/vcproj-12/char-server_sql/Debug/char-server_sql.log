@@ -1,0 +1,16 @@
+﻿  char.c
+  int_achievement.c
+  int_auction.c
+  int_guild.c
+  int_homun.c
+  int_mail.c
+  int_mercenary.c
+  int_party.c
+  int_pet.c
+  int_quest.c
+  int_storage.c
+  inter.c
+  Generating Code...
+char.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  char-server_sql.vcxproj -> C:\Users\Jairo.DESKTOP-8VGQSF6\Desktop\servidor   por fuera dev la  raiz\Wair0\vcproj-12\..\char-server_sql.exe
+  char-server_sql.vcxproj -> ..\char-server_sql.pdb (Full PDB)

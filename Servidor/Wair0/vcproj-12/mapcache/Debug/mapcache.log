@@ -1,0 +1,4 @@
+﻿  mapcache.c
+mapcache.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  mapcache.vcxproj -> C:\Users\Jairo.DESKTOP-8VGQSF6\Desktop\servidor   por fuera dev la  raiz\Wair0\vcproj-12\..\mapcache.exe
+  mapcache.vcxproj -> ..\mapcache.pdb (Full PDB)
