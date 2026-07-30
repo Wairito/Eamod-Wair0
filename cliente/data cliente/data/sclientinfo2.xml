@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+	<desc>Ragnarok Client Information</desc>
+	<servicetype>korea</servicetype>
+	<servertype>sakray</servertype>
+	<connection>
+		<display>Local</display>
+		<address>127.0.0.1</address>
+		<port>6900</port>
+		<version>22</version>
+		<langtype>1</langtype>
+		<registrationweb>www.ragnarok.com</registrationweb>
+		
+	</connection>
+</clientinfo>

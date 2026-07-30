@@ -1,0 +1,21 @@
+/Output/selftest
+.ci/files.txt
+.ci/index.txt
+.ci/nemo.po
+/Other/
+/Other
+/Output/*.h
+/Output/*.txt
+/Output/*.exe
+/Output/*.dll
+/Output/*.asi
+/Input/nemo.key
+FailedTranslations.txt
+*.exe.secure.txt
+/PatchList.log
+/InputList.db
+/NEMO.ini
+*.db
+
+# exception
+!/Output/dummy.txt

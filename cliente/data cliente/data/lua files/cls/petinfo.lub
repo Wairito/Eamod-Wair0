@@ -1,0 +1,56 @@
+-- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+-- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
+-- This file can be distributed, used and modified freely
+-- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
+-- This file only works if used in combination with the `Custom Lua Support`
+
+PetNameTable_CLS = {
+	-- Pet File Name (same structure as jobname.lub)
+	-- [jobtbl_CLS.JT_] = "<mob file name>"
+}
+PetIllustNameTable_CLS = {
+	-- Pet Illust File (default: Poring)
+	-- [jobtbl_CLS.JT_] = ".bmp"
+}
+PetIllustNameTable_Eng_CLS = {
+	-- English Pet Illust File (default: Poring)
+	-- [jobtbl_CLS.JT_] = ".bmp"
+}
+PetAccIDs_CLS = {
+	-- View ID of the Pet Accessory
+	-- ACC_ = 0
+	-- Note: Increase ACC_LAST as required and place your entries before it!
+	ACC_LAST = 10100
+}
+PetAccActNameTable_CLS = {
+	-- Accessory Act File Name (only needed if Accessory is set above)
+	-- [PetAccIDs_CLS.ACC_] = ".act"
+}
+PetAccActNameTable_Eng_CLS = {
+	-- English Accessory Act File Name (only needed if Accessory is set above)
+	-- [PetAccIDs_CLS.ACC_] = ".act"
+}
+PetStringTable_CLS = {
+	-- Pet Display Name
+	-- [jobtbl_CLS.JT_] = "Name"
+}
+PetEggItemID_PetJobID_CLS = {
+	-- Assigns the Item ID of the EGG to the respective Pet
+	-- [0] = jobtbl_CLS.JT_
+}
+PetFoodTable_CLS = {
+	-- Item ID for Pet Food for the respective Pet
+	-- [jobtbl_CLS.JT_] = 531
+}
+-----------     DON'T TOUCH THESE LINES AT ALL     -----------
+require('SystemEN/LuaFiles514/rotp_f')
+F_ROTP(PetNameTable_CLS,PetNameTable)
+F_ROTP(PetIllustNameTable_CLS,PetIllustNameTable)
+F_ROTP(PetIllustNameTable_Eng_CLS,PetIllustNameTable_Eng)
+F_ROTP(PetAccIDs_CLS,PetAccIDs,1)
+F_ROTP(PetAccActNameTable_CLS,PetAccActNameTable)
+F_ROTP(PetAccActNameTable_Eng_CLS,PetAccActNameTable_Eng)
+F_ROTP(PetStringTable_CLS,PetStringTable)
+F_ROTP(PetEggItemID_PetJobID_CLS,PetEggItemID_PetJobID)
+F_ROTP(PetFoodTable_CLS,PetFoodTable)
+--------------------------------------------------------------

@@ -1,0 +1,26 @@
+-- Original translation works of zackdreaver: https://github.com/zackdreaver/ROenglishRE
+-- Continuated by llchrisll at https://github.com/llchrisll/ROenglishRE
+-- This file can be distributed, used and modified freely
+-- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
+-- This file only works if used in combination with the `Custom Lua Support`
+
+RobeNameTable_CLS = {
+	-- Robe File Name
+	-- [SPRITE_ROBE_IDs_CLS.ROBE_] = "",
+}
+
+RobeNameTable_Eng_CLS = {
+	-- English Robe File Name
+	-- [SPRITE_ROBE_IDs_CLS.ROBE_] = "",
+}
+
+RobeTopLayer_CLS = {
+	-- Not sure what this should do....
+	-- SPRITE_ROBE_IDs_CLS.ROBE_,
+}
+-----------     DON'T TOUCH THESE LINES AT ALL     -----------
+require('SystemEN/LuaFiles514/rotp_f')
+F_ROTP(RobeNameTable_CLS,RobeNameTable)
+F_ROTP(RobeNameTable_Eng_CLS,RobeNameTable_Eng)
+F_ROTP(RobeTopLayer_CLS,RobeTopLayer)
+--------------------------------------------------------------

@@ -1,0 +1,26 @@
+CmdOnOffList["/notrade"] = 0
+CmdOnOffList["/noshift"] = 0
+CmdOnOffList["/noctrl"] = 1
+CmdOnOffList["/skillfail"] = 1
+CmdOnOffList["/notalkmsg"] = 0
+CmdOnOffList["/notalkmsg2"] = 0
+CmdOnOffList["/showname"] = 1
+CmdOnOffList["/fog"] = 1
+CmdOnOffList["/aura"] = 1
+CmdOnOffList["/window"] = 0
+CmdOnOffList["/miss"] = 1
+CmdOnOffList["/q1"] = 0
+CmdOnOffList["/q2"] = 0
+CmdOnOffList["/effect"] = 1
+CmdOnOffList["/bgm"] = 1
+CmdOnOffList["/sound"] = 1
+CmdOnOffList["/loginout"] = 1
+CmdOnOffList["/shopping"] = 1
+CmdOnOffList["/stateinfo"] = 1
+CmdOnOffList["/snap"] = 0
+CmdOnOffList["/itemsnap"] = 0
+CmdOnOffList["/skillsnap"] = 1
+CmdOnOffList["/hoai"] = 0
+CmdOnOffList["/merai"] = 0
+CmdOnOffList["/camera"] = 0
+

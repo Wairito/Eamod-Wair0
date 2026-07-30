@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+<clientinfo>
+<servicetype>korea</servicetype>
+<servertype>sakray</servertype>
+   <connection>
+      <display>Prueba</display>
+      <balloon>the balloon</balloon>
+      <desc>description</desc>
+      <address>127.0.0.1</address>
+      <port>6900</port>
+      <version>30</version>
+      <langtype>1</langtype>
+      <registrationweb>flux.domain.com</registrationweb>
+       
+   </connection>
+</clientinfo>
